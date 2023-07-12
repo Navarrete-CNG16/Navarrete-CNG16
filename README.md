@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navarrete-CNG16
 - 👀 I’m interested in desarrollar programas en lenjuage java y el desarrollo de apps en Android Studio
-- 🌱 I’m currently learning ...python  
+- 🌱 I’m currently learning ...python, html y ccs asi como javascript
 - 💞️ I’m looking to collaborate on diferentes equipos donde pueda ayudar en la parte de diseño y codificando estrategias para la mejora de los proyectos
 -
 - 📫 How to reach me mediante WhatsApp
